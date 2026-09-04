@@ -1,0 +1,249 @@
+{
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2026-08-30 22:20:10 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2026-08-30 22:32:37 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2026-08-30 22:32:37 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2026-08-30 22:43:38 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/pale_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2026-08-30 22:43:38 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_pink_dye": "2026-08-30 22:43:47 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_candle": {
+    "criteria": {
+      "has_pink_dye": "2026-08-30 22:43:47 +0400"
+    },
+    "done": true
+  },
+  "ris:ris/curious_creatures": {
+    "criteria": {
+      "spawn_egg": "2026-08-30 22:43:51 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-08-30 22:09:57 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_pink_wool": {
+    "criteria": {
+      "has_needed_dye": "2026-08-30 22:43:47 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2026-08-30 22:43:38 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_pink_bed": {
+    "criteria": {
+      "has_needed_dye": "2026-08-30 22:43:47 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_pink_dye": "2026-08-30 22:43:47 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2026-08-30 22:43:38 +0400"
+    },
+    "done": true
+  },
+  "ris:special/root": {
+    "criteria": {
+      "requirement": "2026-08-30 22:09:57 +0400"
+    },
+    "done": true
+  },
+  "ris:ris/storage_solution": {
+    "criteria": {
+      "requirement": "2026-08-30 22:12:55 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2026-08-30 22:43:38 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/pink_bundle": {
+    "criteria": {
+      "has_pink_dye": "2026-08-30 22:43:47 +0400"
+    },
+    "done": true
+  },
+  "ris:alchemy/root": {
+    "criteria": {
+      "requirement": "2026-08-30 22:09:57 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_pink_carpet": {
+    "criteria": {
+      "has_needed_dye": "2026-08-30 22:43:47 +0400"
+    },
+    "done": true
+  },
+  "ris:ris/your_first_block/well_theres_your_problem": {
+    "criteria": {
+      "requirement": "2026-08-30 22:11:35 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2026-08-30 22:32:37 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2026-08-30 22:43:38 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2026-08-30 22:32:37 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2026-08-30 22:43:38 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_pink_dye": "2026-08-30 22:43:47 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2026-08-30 22:43:38 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2026-08-30 22:33:01 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2026-08-30 22:32:37 +0400"
+    },
+    "done": true
+  },
+  "ris:ris/curious_creatures/zoologist": {
+    "criteria": {
+      "sheep_spawn_egg": "2026-08-30 22:43:51 +0400"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
+    "criteria": {
+      "has_dune_armor_trim_smithing_template": "2026-08-30 22:20:10 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2026-08-30 22:43:38 +0400"
+    },
+    "done": true
+  },
+  "ris:special/customized": {
+    "criteria": {
+      "setting_enabled": "2026-08-30 22:10:01 +0400"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2026-08-30 22:43:38 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2026-08-30 22:32:37 +0400"
+    },
+    "done": true
+  },
+  "ris:ris/your_first_block": {
+    "criteria": {
+      "requirement": "2026-08-30 22:11:35 +0400"
+    },
+    "done": true
+  },
+  "ris:ris/your_first_block/now_thats_a_problem": {
+    "criteria": {
+      "bedrock": "2026-08-30 22:11:35 +0400"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2026-08-30 22:32:37 +0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2026-08-30 22:09:58 +0400"
+    },
+    "done": false
+  },
+  "ris:ris/root": {
+    "criteria": {
+      "requirement": "2026-08-30 22:09:57 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2026-08-30 22:32:37 +0400"
+    },
+    "done": true
+  },
+  "DataVersion": 4189
+}

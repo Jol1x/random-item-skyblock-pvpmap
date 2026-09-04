@@ -1,1 +1,0 @@
-execute unless data storage ris:generator components[{id:"damage_resistant"}] run data modify storage ris:generator components append value {id:"damage_resistant"}

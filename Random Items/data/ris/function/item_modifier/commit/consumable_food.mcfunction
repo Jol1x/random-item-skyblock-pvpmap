@@ -1,4 +1,0 @@
-data modify entity @s Item.components.minecraft:food merge from storage ris:generator components[{id:"consumable_food"}].food
-data modify entity @s Item.components.minecraft:consumable.consume_seconds set from storage ris:generator components[{id:"consumable_food"}].time
-
-item modify entity @s contents {"function":"set_lore","entity":"this","mode":"append","lore":[[{"text":"Food - 🍖","color":"gray","italic":false},{"nbt":"components[{id:consumable_food}].food.nutrition","storage":"ris:generator"},{"text":" ⚡"},{"nbt":"components[{id:consumable_food}].food.saturation","storage":"ris:generator"}]]}

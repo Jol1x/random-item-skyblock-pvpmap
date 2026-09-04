@@ -1,8 +1,0 @@
-*.zip
-/.vscode
-/old
-/playtest
-/gallery
-/scripts/output
-/scripts/out
-/scripts/block_loot

@@ -1,9 +1,0 @@
-{
-    "values": [
-        "#ris:special_blocks",
-        "minecraft:end_gateway",
-        "minecraft:end_portal",
-        "#ris:placeable_unbreakable",
-        "#ris:not_quite_unbreakable"
-    ]
-}

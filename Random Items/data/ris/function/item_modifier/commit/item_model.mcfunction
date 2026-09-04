@@ -1,1 +1,0 @@
-data modify entity @s Item.components.minecraft:item_model set from storage ris:generator components[{id:"item_model"}].item_model

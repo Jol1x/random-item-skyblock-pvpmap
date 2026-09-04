@@ -1,1 +1,0 @@
-data modify entity @s Item.components.minecraft:jukebox_playable.song set from storage ris:generator components[{id:"jukebox_playable"}].song

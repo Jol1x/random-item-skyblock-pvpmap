@@ -1,1 +1,0 @@
-execute unless data storage ris:generator components[{id:"hide_additional_tooltip"}] run data modify storage ris:generator components append value {id:"hide_additional_tooltip"}

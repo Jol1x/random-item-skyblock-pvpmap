@@ -1,1 +1,0 @@
-$data modify storage ris:generator component set from storage ris:generator weights[$(component)]

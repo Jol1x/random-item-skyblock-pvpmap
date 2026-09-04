@@ -1,1 +1,0 @@
-$execute if score $(function) ris.alchemy_item_settings matches 0 run data remove storage ris:destroy_range cube

@@ -1,0 +1,360 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-08-30 20:03:26 +0400"
+    },
+    "done": true
+  },
+  "ris:special/root": {
+    "criteria": {
+      "requirement": "2026-08-30 20:03:26 +0400"
+    },
+    "done": true
+  },
+  "ris:alchemy/root": {
+    "criteria": {
+      "requirement": "2026-08-30 20:03:26 +0400"
+    },
+    "done": true
+  },
+  "ris:ris/root": {
+    "criteria": {
+      "requirement": "2026-08-30 20:03:26 +0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2026-08-30 20:03:27 +0400"
+    },
+    "done": false
+  },
+  "ris:special/customized": {
+    "criteria": {
+      "setting_enabled": "2026-08-30 20:03:29 +0400",
+      "custom_items": "2026-08-30 20:18:33 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_chestplate": "2026-08-30 20:03:54 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_chestplate": "2026-08-30 20:03:54 +0400"
+    },
+    "done": true
+  },
+  "ris:ris/your_first_block": {
+    "criteria": {
+      "requirement": "2026-08-30 20:04:22 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2026-08-30 20:05:08 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
+    "criteria": {
+      "has_smooth_quartz": "2026-08-30 20:05:08 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2026-08-30 20:05:08 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
+    "criteria": {
+      "has_smooth_quartz": "2026-08-30 20:05:08 +0400"
+    },
+    "done": true
+  },
+  "ris:ris/your_first_block/a_messy_platform": {
+    "criteria": {
+      "requirement": "2026-08-30 20:05:39 +0400"
+    },
+    "done": true
+  },
+  "ris:ris/lets_get_crafting/doubling_up": {
+    "criteria": {
+      "cobblestone": "2026-08-30 20:06:51 +0400"
+    },
+    "done": true
+  },
+  "ris:ris/your_first_block/beginnings_of_a_base": {
+    "criteria": {
+      "requirement": "2026-08-30 20:15:26 +0400"
+    },
+    "done": true
+  },
+  "ris:ris/your_first_block/fancier_air": {
+    "criteria": {
+      "requirement": "2026-08-30 20:16:48 +0400"
+    },
+    "done": true
+  },
+  "ris:ris/your_first_block/well_theres_your_problem": {
+    "criteria": {
+      "requirement": "2026-08-30 20:28:23 +0400"
+    },
+    "done": true
+  },
+  "ris:ris/your_first_block/now_thats_a_problem": {
+    "criteria": {
+      "bedrock": "2026-08-30 20:28:23 +0400"
+    },
+    "done": false
+  },
+  "ris:ris/liquid_at_last/sweaty_palms": {
+    "criteria": {
+      "requirement": "2026-08-30 20:33:47 +0400"
+    },
+    "done": true
+  },
+  "ris:ris/liquid_at_last/void_walker": {
+    "criteria": {
+      "requirement": "2026-08-30 20:33:48 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2026-08-30 20:43:11 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2026-08-30 20:43:11 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2026-08-30 20:43:11 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2026-08-30 20:43:11 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2026-08-30 20:43:11 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2026-08-30 20:43:11 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2026-08-30 20:43:11 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2026-08-30 20:43:11 +0400"
+    },
+    "done": true
+  },
+  "ris:special/customized/commander": {
+    "criteria": {
+      "command_block": "2026-08-30 20:43:25 +0400",
+      "chain_command_block": "2026-08-30 20:43:38 +0400"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/redstone_from_smelting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2026-08-30 21:48:00 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_blasting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2026-08-30 21:48:00 +0400"
+    },
+    "done": true
+  },
+  "ris:ris/curious_creatures": {
+    "criteria": {
+      "spawn_egg": "2026-08-30 21:49:26 +0400"
+    },
+    "done": true
+  },
+  "ris:ris/curious_creatures/zoologist": {
+    "criteria": {
+      "panda_spawn_egg": "2026-08-30 22:19:19 +0400",
+      "pig_spawn_egg": "2026-08-30 21:49:26 +0400"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2026-08-30 21:50:50 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2026-08-30 21:50:50 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2026-08-30 21:50:50 +0400"
+    },
+    "done": true
+  },
+  "ris:ris/curious_creatures/cute_and_cuddly": {
+    "criteria": {
+      "requirement": "2026-08-30 21:51:17 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2026-08-30 21:51:36 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2026-08-30 21:53:54 +0400"
+    },
+    "done": true
+  },
+  "ris:ris/liquid_at_last": {
+    "criteria": {
+      "water": "2026-08-30 21:53:55 +0400"
+    },
+    "done": true
+  },
+  "ris:ris/storage_solution": {
+    "criteria": {
+      "requirement": "2026-08-30 21:57:15 +0400"
+    },
+    "done": true
+  },
+  "ris:ris/curious_creatures/pedro": {
+    "criteria": {
+      "requirement": "2026-08-30 22:19:19 +0400"
+    },
+    "done": true
+  },
+  "ris:alchemy/transmutation/moving_day": {
+    "criteria": {
+      "regular_containers": "2026-08-30 22:20:21 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2026-08-30 22:31:33 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2026-08-30 22:31:33 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2026-08-30 22:31:33 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2026-08-30 22:31:33 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2026-08-30 22:31:33 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2026-08-30 22:31:33 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2026-08-30 22:31:33 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2026-08-30 22:31:33 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2026-08-30 22:31:33 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2026-08-30 22:31:33 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2026-08-30 22:31:33 +0400"
+    },
+    "done": true
+  },
+  "ris:ris/your_first_block/a_proper_sky_base": {
+    "criteria": {
+      "requirement": "2026-08-30 22:38:58 +0400"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2026-08-30 22:39:13 +0400"
+    },
+    "done": true
+  },
+  "ris:ris/liquid_at_last/liquid_stone": {
+    "criteria": {
+      "requirement": "2026-08-30 22:39:17 +0400"
+    },
+    "done": true
+  },
+  "ris:ris/curious_creatures/gotta_spawn_em_all": {
+    "criteria": {
+      "requirement": "2026-08-30 22:39:19 +0400"
+    },
+    "done": true
+  },
+  "DataVersion": 4189
+}

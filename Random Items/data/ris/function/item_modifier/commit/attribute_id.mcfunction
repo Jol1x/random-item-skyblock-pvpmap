@@ -1,1 +1,0 @@
-$data modify entity @s Item.components.minecraft:attribute_modifiers.modifiers[{id:"ris:attribute"}].id set value "ris:attribute$(id)"
